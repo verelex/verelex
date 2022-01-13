@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @verelex
 - 👀 I’m interested in C/C++, PHP
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning QA
 
 <!---
 verelex/verelex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
