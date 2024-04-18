@@ -3,7 +3,8 @@
 - 👀 I was learning QA,
 - 👀 I’m currently learning C#
 
-<!---You can help to support and improve apps. Adresses for donates:
+<!---
+for help to improve, support and create new programs:
 BTC
 3L2gs2ytaNsGcqArMLrxNgyrMZoGeZWakf
 ETH
