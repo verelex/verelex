@@ -3,7 +3,7 @@
 - 👀 I was learning QA,
 - 👀 I’m currently learning C#
 
-For help to improve, support and create new programs:<br/>
+<strong>For help to improve, support and create new programs:</strong><br/>
 <hr>
 BTC<br/>
 3L2gs2ytaNsGcqArMLrxNgyrMZoGeZWakf<br/>
